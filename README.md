@@ -10,7 +10,7 @@
 * Run without api key: <br/>
   `$ mvn exec:java  -Dexec.mainClass=Application`
 * Run with api key:  <br/>
-  `$ mvn exec:java  -Dexec.mainClass=Application -Dexec.args="ZSjlcEQXWw4A5o7KPrS5kUQyj"` 
+  `$ mvn exec:java  -Dexec.mainClass=Application -Dexec.args="[your api key]"` 
 
 ## Project design
 Following the MVC design pattern, I segregate the project into 3 main layers:<br/>
